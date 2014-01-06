@@ -114,23 +114,3 @@ hr {
   color: gray; }
 
 /************End Timeline**************/
-/************Instructions**************/
-.instructions {
-  max-width: 42em;
-}
-.instructions ol {
-  list-style: decimal;
-  list-style-position: inside;
-}
-.instructions li {
-  margin-bottom: 0.5em;
-  line-height: 1.4em;
-}
-.instructions pre {
-  background: #eee;
-  color: #333332;
-  padding: 20px;
-  border-radius: 3px;
-  overflow: auto;
-}
-/************End Instructions**************/
